@@ -1,11 +1,12 @@
-import { NgModule } from '@angular/core';
-import { BrowserModule } from '@angular/platform-browser';
-import { AppRoutingModule } from './app-routing.module';
+// app.module.ts
+import {PizzaAppComponent} from "./pizza-app/pizza-app.component";
+import {HomeComponent} from "./home/home.component";
+import {NgModule} from "@angular/core";
+import {AppComponent} from "./app.component";
+import {AppRoutingModule} from "./app-routing.module";
+import {BrowserModule} from "@angular/platform-browser";
+import {SizePipe} from "./shared/pipes/size.pipe";
 
-import { AppComponent } from './app.component';
-import { HomeComponent } from './home/home.component';
-import { PizzaAppComponent } from './pizza-app/pizza-app.component';
-import { SizePipe } from './shared/pipes/size.pipe';
 
 @NgModule({
   declarations: [AppComponent, HomeComponent, PizzaAppComponent, SizePipe],
