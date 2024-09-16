@@ -1,4 +1,5 @@
-import { Component } from '@angular/core';
+// nav-bar.component.ts
+import {Component} from "@angular/core";
 
 @Component({
   selector: 'app-nav-bar',
