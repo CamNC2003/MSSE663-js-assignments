@@ -13,7 +13,7 @@ import { PizzaSummaryComponent } from './pizza-app/components/pizza-summary/pizz
 import { PizzaToppingsComponent } from './pizza-app/components/pizza-toppings/pizza-toppings.component';
 import { PizzViewerComponent } from './pizza-app/components/pizza-viewer/pizza-viewer.component';
 import { PizzaAppComponent } from './pizza-app/pizza-app.component';
-import { NavBarComponent } from './shared/components/nav-bar.component';
+import { NavBarComponent } from './shared/nav-bar.component';
 import { SizePipe } from './shared/pipes/size.pipe';
 
 @NgModule({

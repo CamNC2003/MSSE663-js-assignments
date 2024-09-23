@@ -6,7 +6,7 @@ import {
   FormGroup,
   Validators,
 } from '@angular/forms';
-import { Pizza } from 'api/lib/api-interfaces';
+import { Pizza } from '../../../api/lib/api-interfaces';
 import { map, startWith } from 'rxjs';
 
 type PizzaPrice = {
