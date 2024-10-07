@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c40e6d34-05e1-4174-b948-24ff9cff6c06" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/class-app1/src/app/pizza-app/components/pizza-creator/pizza-creator.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-app1/src/app/pizza-app/components/pizza-creator/pizza-creator.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-app1/src/app/pizza-app/components/pizza-creator/pizza-creator.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-app1/src/app/pizza-app/components/pizza-size/pizza-size.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-app1/src/app/pizza-app/components/pizza-size/pizza-size.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-app1/src/app/pizza-app/components/pizza-size/pizza-size.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-app1/src/app/pizza-app/components/pizza-summary/pizza-summary.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-app1/src/app/pizza-app/components/pizza-summary/pizza-summary.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-app1/src/app/pizza-app/components/pizza-summary/pizza-summary.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-app1/src/app/pizza-app/components/pizza-toppings/pizza-toppings.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-app1/src/app/pizza-app/components/pizza-toppings/pizza-toppings.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-app1/src/app/pizza-app/components/pizza-toppings/pizza-toppings.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-app1/src/app/pizza-app/components/pizza-viewer/pizza-viewer.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-app1/src/app/pizza-app/components/pizza-viewer/pizza-viewer.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-app1/src/app/pizza-app/components/pizza-viewer/pizza-viewer.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-app1/src/app/pizza-app/state/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-app1/src/app/pizza-app/state/pizzas.actions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-app1/src/app/pizza-app/state/pizzas.effects.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-app1/src/app/pizza-app/state/pizzas.reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-app1/src/app/pizza-app/state/pizzas.selectors.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-app1/src/app/pizzas.resolver.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2mWxs0hQFpAkFzkOl1yPu5D87v0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.pizzas.service.ts.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "week5",
+    "last_opened_file_path": "C:/Users/camnc/OneDrive/Documents/GitHub/MSSE663-js-assignments/class-app1/src/app",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Users\\camnc\\OneDrive\\Documents\\GitHub\\MSSE663-js-assignments\\class-app1\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\camnc\OneDrive\Documents\GitHub\MSSE663-js-assignments\class-app1\src\app" />
+      <recent name="C:\Users\camnc\OneDrive\Documents\GitHub\MSSE663-js-assignments\class-app1\src\app\pizza-app" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-WS-242.21829.149" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c40e6d34-05e1-4174-b948-24ff9cff6c06" name="Changes" comment="" />
+      <created>1727206337856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727206337856</updated>
+      <workItem from="1727206339329" duration="1369000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
